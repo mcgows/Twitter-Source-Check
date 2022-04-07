@@ -1,6 +1,6 @@
 # Twitter Source Test
 ## Description
-Tool to get the source location from twitter uses last <3200 tweets using the Twitter API.
+Tool to get the source location from twitter users last <3200 tweets using the Twitter API.
 
 ## Required Libraries
 * OS
