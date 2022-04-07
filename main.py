@@ -99,7 +99,7 @@ def main():
     labels, sizes = [ freq.keys(), freq.values ]
  
     plt.pie(sizes, labels=labels, autopct='%1.1i%%')
-    plt.title("@" + str(user) + "\nTweets Looked At: " + str(account.shape[0] + 1))
+    plt.title("@" + str(user) + "\nTweets Looked At: " + str(account.shape[0]))
     plt.show()
 
     
